@@ -255,3 +255,18 @@ footer {
         padding: 30px;
     }
 }
+.section-link {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #3498db; /* Couleur bleue */
+    color: white; /* Texte blanc */
+    text-decoration: none; /* Supprime le soulignement */
+    border-radius: 5px; /* Coins arrondis */
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.section-link:hover {
+    background-color: #2980b9; /* Couleur bleue foncée */
+    transform: scale(1.05); /* Léger zoom au survol */
+}
