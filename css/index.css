@@ -78,7 +78,7 @@ section:hover {
 /* Logo de la barre de navigation */
 .navbar-logo {
     font-size: 1.5rem;
-    color: rgb(0, 47, 255); /* Changer la couleur du texte en fuchsia */
+    color: rgb(0, 174, 255); /* Changer la couleur du texte en fuchsia */
     font-weight: bold;
     text-decoration: none;
 }
@@ -96,7 +96,7 @@ section:hover {
 }
 
 .navbar-menu a {
-    color: rgb(255, 0, 149); /* Changer la couleur des liens en fuchsia */
+    color: rgb(24, 152, 238); /* Changer la couleur des liens en fuchsia */
     text-decoration: none;
     font-size: 1rem;
 }
@@ -137,11 +137,11 @@ section:hover {
 .intro, .section-content {
     padding: 40px 20px;
     text-align: center;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     margin: 20px 0;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    color: rgb(255, 0, 106); /* Couleur du texte des sections */
+    color: rgb(0, 0, 0); /* Couleur du texte des sections */
 }
 
 /* Titres des sections */
